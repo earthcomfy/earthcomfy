@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and Django**
 
-- 📫 You can reach me via **(https://www.linkedin.com/in/hana-getnet-belay-323b91219/ "Linkedin")**
+- 📫 You can reach me via **<https://www.linkedin.com/in/hana-getnet-belay-323b91219/> "Linkedin"**
 
 
 <h3 align="left">Languages and Tools:</h3>
