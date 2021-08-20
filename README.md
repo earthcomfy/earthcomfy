@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hana Getnet</h1>
 <h3 align="center">I'm a self taught Python Programmer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=earthcomfy&label=Profile%20views&color=0e75b6&style=flat" alt="earthcomfy" /> </p>
-
 - 🌱 I’m currently learning **Python and Django**
 
 - 📫 You can reach me via **[Linkedin](https://www.linkedin.com/in/hana-getnet-belay-323b91219/)**
