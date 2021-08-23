@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hana Getnet</h1>
+<h1 align="center">Hi 👋, I'm Hannah</h1>
 <h3 align="center">Self taught Python Programmer | Software Engineering student from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earthcomfy&label=Profile%20views&color=0e75b6&style=flat" alt="earthcomfy" /> </p>
@@ -9,6 +9,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<li><a href="https://dev.to/earthcomfy/creating-a-django-registration-login-app-part-i-1di5" rel="nofollow">Creating a Django Registration/Login app Part-I</a></li>
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
