@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hana Getnet</h1>
-<h3 align="center">I'm a self taught Python Developer from Ethiopia and currently attending a software engineering degree program in Bahir Dar University.</h3>
+<h3 align="center">I'm a self taught Python Programmer|Software Engineering student from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earthcomfy&label=Profile%20views&color=0e75b6&style=flat" alt="earthcomfy" /> </p>
 
