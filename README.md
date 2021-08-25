@@ -9,8 +9,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<li><a href="https://dev.to/earthcomfy/creating-a-django-registration-login-app-part-i-1di5" rel="nofollow">Creating a Django Registration/Login app Part-I</a></li>
-
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
