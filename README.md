@@ -9,6 +9,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Login/Logout System Part-II](https://dev.to/earthcomfy/django-login-logout-system-part-ii-48o5)
+- [Django Login/Logout System Part-I](https://dev.to/earthcomfy/django-login-logout-system-part-i-pdl)
 - [Creating The Sign Up Page Part II](https://dev.to/earthcomfy/creating-the-sign-up-page-part-ii-5a3a)
 - [Creating The Sign Up Page Part I](https://dev.to/earthcomfy/creating-a-django-registration-login-app-part-ii-3k6)
 - [Setting Up Our Envirnoment, And Creating The Home Page](https://dev.to/earthcomfy/creating-a-django-registration-login-app-part-i-1di5)
