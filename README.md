@@ -9,7 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Django Social Authentication](https://dev.to/earthcomfy/django-social-authentication-imk)
+- [Django Social Apps Authentication](https://dev.to/earthcomfy/django-social-authentication-imk)
 - [Django Login/Logout System Part-II](https://dev.to/earthcomfy/django-login-logout-system-part-ii-48o5)
 - [Django Login/Logout System Part-I](https://dev.to/earthcomfy/django-login-logout-system-part-i-pdl)
 - [Creating The Sign Up Page Part II](https://dev.to/earthcomfy/creating-the-sign-up-page-part-ii-5a3a)
