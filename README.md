@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Django - User Profile](https://dev.to/earthcomfy/django-user-profile-3hik)
 - [Django - Reset Password](https://dev.to/earthcomfy/django-reset-password-3k0l)
 - [Django - How to keep secrets safe with python-dotenv](https://dev.to/earthcomfy/django-how-to-keep-secrets-safe-with-python-dotenv-5811)
 - [Django Social Apps Authentication](https://dev.to/earthcomfy/django-social-authentication-imk)
 - [Django Login/Logout System Part-II](https://dev.to/earthcomfy/django-login-logout-system-part-ii-48o5)
-- [Django Login/Logout System Part-I](https://dev.to/earthcomfy/django-login-logout-system-part-i-pdl)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
