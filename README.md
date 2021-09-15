@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction To Web Sockets](https://dev.to/earthcomfy/introduction-to-web-sockets-3n7m)
 - [Django - Update User Profile](https://dev.to/earthcomfy/django-update-user-profile-33ho)
 - [Django - User Profile](https://dev.to/earthcomfy/django-user-profile-3hik)
 - [Django - Reset Password](https://dev.to/earthcomfy/django-reset-password-3k0l)
 - [Django - How to keep secrets safe with python-dotenv](https://dev.to/earthcomfy/django-how-to-keep-secrets-safe-with-python-dotenv-5811)
-- [Django Social Apps Authentication](https://dev.to/earthcomfy/django-social-authentication-imk)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
