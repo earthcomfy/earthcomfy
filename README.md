@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started With Django Channels - A Simple Chat App](https://dev.to/earthcomfy/getting-started-with-django-channels-a-simple-chat-app-2a7m)
 - [Introduction To Web Sockets](https://dev.to/earthcomfy/introduction-to-web-sockets-3n7m)
 - [Django - Update User Profile](https://dev.to/earthcomfy/django-update-user-profile-33ho)
 - [Django - User Profile](https://dev.to/earthcomfy/django-user-profile-3hik)
 - [Django - Reset Password](https://dev.to/earthcomfy/django-reset-password-3k0l)
-- [Django - How to keep secrets safe with python-dotenv](https://dev.to/earthcomfy/django-how-to-keep-secrets-safe-with-python-dotenv-5811)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
