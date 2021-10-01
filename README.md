@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hannah</h1>
-<h3 align="center">A Passionate Software Engineering Sudent From Ethiopia</h3>
+<h3 align="center">A Passionate Software Engineering Student From Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earthcomfy&label=Profile%20views&color=0e75b6&style=flat" alt="earthcomfy" /> </p>
 
