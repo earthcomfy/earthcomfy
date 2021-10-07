@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earthcomfy&label=Profile%20views&color=0e75b6&style=flat" alt="earthcomfy" /> </p>
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **Python, Django, Reactjs**
 
 - 📫 You can reach me via **[Linkedin](https://www.linkedin.com/in/hana-getnet-belay-323b91219/)**
 
