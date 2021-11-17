@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hana</h1>
 <h3 align="center">A Passionate Software Engineering Student From Ethiopia</h3>
 
-<hr/>
 
 - 🌱 I’m currently learning **Python, Django, React.js**
 
