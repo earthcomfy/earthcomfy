@@ -6,7 +6,7 @@
 
 - 📫 You can reach me via **[Linkedin](https://www.linkedin.com/in/hana-getnet-belay-323b91219/)**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Django Channels - A Simple Chat App Part 3](https://dev.to/earthcomfy/django-channels-a-simple-chat-app-part-3-a3b)
 - [Django Channels - A Simple Chat App Part 2](https://dev.to/earthcomfy/django-channels-a-simple-chat-app-part-2-eh9)
