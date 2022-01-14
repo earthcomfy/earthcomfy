@@ -8,11 +8,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A recipe sharing web app with Django and React](https://dev.to/earthcomfy/a-recipe-sharing-web-app-with-django-and-react-1n40)
 - [Django Channels - A Simple Chat App Part 3](https://dev.to/earthcomfy/django-channels-a-simple-chat-app-part-3-a3b)
 - [Django Channels - A Simple Chat App Part 2](https://dev.to/earthcomfy/django-channels-a-simple-chat-app-part-2-eh9)
 - [Getting Started With Django Channels - A Simple Chat App Part 1](https://dev.to/earthcomfy/getting-started-with-django-channels-a-simple-chat-app-2a7m)
 - [Introduction To Web Sockets](https://dev.to/earthcomfy/introduction-to-web-sockets-3n7m)
-- [Django - Update User Profile](https://dev.to/earthcomfy/django-update-user-profile-33ho)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
