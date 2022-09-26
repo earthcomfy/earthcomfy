@@ -8,11 +8,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A recipe sharing web app with Django and React](https://dev.to/earthcomfy/a-recipe-sharing-web-app-with-django-and-react-1n40)
-- [Django Channels - A Simple Chat App Part 3](https://dev.to/earthcomfy/django-channels-a-simple-chat-app-part-3-a3b)
-- [Django Channels - A Simple Chat App Part 2](https://dev.to/earthcomfy/django-channels-a-simple-chat-app-part-2-eh9)
-- [Getting Started With Django Channels - A Simple Chat App Part 1](https://dev.to/earthcomfy/getting-started-with-django-channels-a-simple-chat-app-2a7m)
-- [Introduction To Web Sockets](https://dev.to/earthcomfy/introduction-to-web-sockets-3n7m)
+- [An E-commerce API](https://dev.to/earthcomfy/an-e-commerce-api-3dkp)
+- [Build Authentication Using Firebase | React | Express](https://dev.to/earthcomfy/build-authentication-using-firebase-react-express-28ig)
+- [Introducing a Real-time Chat App + Features and Demo](https://dev.to/earthcomfy/real-time-chat-app-using-firebase-react-tailwindcss-mongodb-nodeexpress-and-socketio-26n1)
+- [DRF boilerplate for user registration and auth using phone number and/or email](https://dev.to/earthcomfy/drf-boilerplate-for-user-registration-and-auth-using-phone-number-andor-email-3iie)
+- [My Portfolio](https://dev.to/earthcomfy/my-portfolio-2566)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
