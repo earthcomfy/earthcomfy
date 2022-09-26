@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer From Ethiopia</h3>
 
 
-- 🌱 I’m currently learning **Python, Django, React.js**
+- 🌱 I’m currently learning **Python, Django, React.js, Node/Express etc...**
 
 - 📫 You can reach me via **[Linkedin](https://www.linkedin.com/in/hana-getnet-belay-323b91219/)**
 
