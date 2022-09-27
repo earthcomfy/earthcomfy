@@ -8,11 +8,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Class-Based Views in DRF are Powerful](https://dev.to/earthcomfy/class-based-views-in-drf-are-powerful-2jpb)
 - [An E-commerce API](https://dev.to/earthcomfy/an-e-commerce-api-3dkp)
 - [Build Authentication Using Firebase | React | Express](https://dev.to/earthcomfy/build-authentication-using-firebase-react-express-28ig)
 - [Introducing a Real-time Chat App + Features and Demo](https://dev.to/earthcomfy/real-time-chat-app-using-firebase-react-tailwindcss-mongodb-nodeexpress-and-socketio-26n1)
 - [DRF boilerplate for user registration and auth using phone number and/or email](https://dev.to/earthcomfy/drf-boilerplate-for-user-registration-and-auth-using-phone-number-andor-email-3iie)
-- [My Portfolio](https://dev.to/earthcomfy/my-portfolio-2566)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
