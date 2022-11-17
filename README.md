@@ -8,7 +8,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Chatbot Using Python, Django](https://dev.to/documatic/build-a-chatbot-using-python-django-46hb)
+- [Build a ChatBot Using Python, Django](https://dev.to/documatic/build-a-chatbot-using-python-django-46hb)
 - [Start a Production-Ready Dockerized Django Project](https://dev.to/documatic/start-a-production-ready-dockerized-django-project-5eop)
 - [Class-Based Views in DRF are Powerful](https://dev.to/earthcomfy/class-based-views-in-drf-are-powerful-19dg)
 - [An E-commerce API](https://dev.to/earthcomfy/an-e-commerce-api-3dkp)
