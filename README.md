@@ -8,11 +8,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrate Stripe Payments with Django By Building a Digital Products Selling App](https://dev.to/documatic/integrate-stripe-payments-with-django-by-building-a-digital-products-selling-app-le5)
 - [When to Use Functional Programming vs OOP](https://dev.to/documatic/when-to-use-functional-programming-vs-oop-122n)
 - [Build a Blog API With JWT Authentication Using Django Rest Framework](https://dev.to/documatic/build-a-blog-api-with-jwt-authentication-using-django-rest-framework-3718)
 - [Build a ChatBot Using Python, Django](https://dev.to/documatic/build-a-chatbot-using-python-django-46hb)
 - [Start a Production-Ready Dockerized Django Project](https://dev.to/documatic/start-a-production-ready-dockerized-django-project-5eop)
-- [Class-Based Views in DRF are Powerful](https://dev.to/earthcomfy/class-based-views-in-drf-are-powerful-19dg)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
