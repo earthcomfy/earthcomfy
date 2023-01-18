@@ -26,4 +26,4 @@
 
 <h3 align="left">My Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=earthcomfy&show_icons=true&locale=en&theme=dracula" alt="earthcomfy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=earthcomfy&show_icons=true&locale=en&theme=dracula" alt="earthcomfy" /></p>
