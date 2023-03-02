@@ -1,8 +1,8 @@
 <h2>Hi 👋, I'm Hana</h2>
 
 - I am interested in **Backend focused web development**
-- I am currently **freelancing** and working towards a **B.Sc. in Software Engineering at Bahir Dar University, Ethiopia**
-- I’m looking to collaborate on **opensource projects**
+- I am currently **working** as a Django developer 
+- I am also a **Software Engineering** student at **Bahir Dar University, Ethiopia**
 - I write articles on [DEV](https://dev.to/earthcomfy)
 - You can reach me via **[Linkedin](https://www.linkedin.com/in/hana-getnet-belay-323b91219/)**
 
