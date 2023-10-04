@@ -8,11 +8,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Django Code Formatting and Linting Made Easy: A Step-by-Step Pre-commit Hook Tutorial](https://dev.to/earthcomfy/django-code-formatting-and-linting-made-easy-a-step-by-step-pre-commit-hook-tutorial-5ag)
 - [From Problems to Solutions: Understanding Design Patterns](https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i)
 - [Elevate Your Django Projects with GraphQL Integration](https://dev.to/documatic/elevate-your-django-projects-with-graphql-integration-2oi6)
 - [Integrate Stripe Payments with Django By Building a Digital Products Selling App](https://dev.to/documatic/integrate-stripe-payments-with-django-by-building-a-digital-products-selling-app-le5)
 - [When to Use Functional Programming vs OOP](https://dev.to/documatic/when-to-use-functional-programming-vs-oop-122n)
+- [Build a Blog API With JWT Authentication Using Django Rest Framework](https://dev.to/documatic/build-a-blog-api-with-jwt-authentication-using-django-rest-framework-3718)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
