@@ -2,7 +2,6 @@
 
 - I am interested in **Backend web development**
 - I am currently **working** as a **Django developer**
-- I am also a **Software Engineering** student at **Bahir Dar University, Ethiopia**
 - I write articles on [DEV](https://dev.to/earthcomfy)
 - You can find my latest resume [here](https://drive.google.com/file/d/1nE7zuo114o0ew47KQNiv_CeVQ3tszCdZ/view?usp=sharing)
 - You can reach me via **[Linkedin](https://www.linkedin.com/in/hana-getnet-belay-323b91219/)**
