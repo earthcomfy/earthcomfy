@@ -8,7 +8,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Personal Finance Management App with Django, HTMX, Alpine, Tailwind and Plaid](https://dev.to/earthcomfy/personal-finance-management-app-with-django-htmx-alpine-tailwind-and-plaid-2bl0)
+- [Personal Finance Management App with Django, HTMX, Alpine, Tailwind, and Plaid](https://dev.to/earthcomfy/personal-finance-management-app-with-django-htmx-alpine-tailwind-and-plaid-2bl0)
 - [Django Code Formatting and Linting Made Easy: A Step-by-Step Pre-commit Hook Tutorial](https://dev.to/earthcomfy/django-code-formatting-and-linting-made-easy-a-step-by-step-pre-commit-hook-tutorial-592f)
 - [From Problems to Solutions: Understanding Design Patterns](https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i)
 - [Elevate Your Django Projects with GraphQL Integration](https://dev.to/documatic/elevate-your-django-projects-with-graphql-integration-2oi6)
