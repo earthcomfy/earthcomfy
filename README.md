@@ -3,7 +3,7 @@
 - I am interested in **Backend web development**
 - I am currently **working** as a **Django developer**
 - I write articles on [DEV](https://dev.to/earthcomfy)
-- You can reach me via [Linkedin](https://www.linkedin.com/in/hana-getnet-belay-323b91219/)
+- You can reach me via [Linkedin](https://www.linkedin.com/in/hana-belay/)
 - My [Resume](https://drive.google.com/file/d/1dE8Jdgz4or19TVL1VMhWNnNzGXCSxb6p/view?usp=sharing) 
 
 ### Blog posts
