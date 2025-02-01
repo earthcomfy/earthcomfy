@@ -8,11 +8,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Cover Letter Generator with Django, HTMX, and Gemini](https://dev.to/earthcomfy/ai-cover-letter-generator-with-django-htmx-and-gemini-2i5g)
 - [Personal Finance Management App with Django, HTMX, Alpine, Tailwind, and Plaid](https://dev.to/earthcomfy/personal-finance-management-app-with-django-htmx-alpine-tailwind-and-plaid-2bl0)
 - [Django Code Formatting and Linting Made Easy: A Step-by-Step Pre-commit Hook Tutorial](https://dev.to/earthcomfy/django-code-formatting-and-linting-made-easy-a-step-by-step-pre-commit-hook-tutorial-592f)
 - [From Problems to Solutions: Understanding Design Patterns](https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i)
 - [Elevate Your Django Projects with GraphQL Integration](https://dev.to/documatic/elevate-your-django-projects-with-graphql-integration-2oi6)
-- [Integrate Stripe Payments with Django By Building a Digital Products Selling App](https://dev.to/documatic/integrate-stripe-payments-with-django-by-building-a-digital-products-selling-app-le5)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
