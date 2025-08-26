@@ -1,9 +1,8 @@
 <h2>Hi 👋, I'm Hana</h2>
 
-- I am interested in **Backend web development**
-- I am currently **working** as a **Django developer**
+- I am interested in **Backend heavy full-stack web development**
 - I write articles on [DEV](https://dev.to/earthcomfy)
-- You can reach me via [Linkedin](https://www.linkedin.com/in/hana-belay/)
+- You can reach me via [LinkedIn](https://www.linkedin.com/in/hana-belay/)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
